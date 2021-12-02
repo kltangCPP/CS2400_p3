@@ -1,5 +1,5 @@
 # CS2400_p3
-Assignment on creating trees.
+Assignment on creating binary trees.
 
 Assigned: October 26, 2021
 
